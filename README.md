@@ -6,6 +6,8 @@ Beispiele für die LV Interface.
 
 ![Screenshot of a face with visualisation of the main axis.](./face68_winkel.png | width=200)
 
+<img src="./face68_winkel.png" width="400" height="790">
+
 ## Winkel-1 Kopfneigung "ATAN"
 ```
 Point centerPoint = new Point(points[pointUnten].x, points[pointUnten].y);
