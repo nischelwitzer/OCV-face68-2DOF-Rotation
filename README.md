@@ -4,9 +4,7 @@ OpenCV Code Beispiele für Winkelberechnung.
 C# Code in Unity. 
 Beispiele für die LV Interface.
 
-![Screenshot of a face with visualisation of the main axis.](./face68_winkel.png | width=200)
-
-<img src="./face68_winkel.png" width="400" height="790">
+<img src="./face68_winkel.png" width="400">
 
 ## Winkel-1 Kopfneigung "ATAN"
 ```
